@@ -1,0 +1,47 @@
+body{
+    background: #000000;
+}
+.logo{
+    text-align: center;
+}
+.login{
+    padding: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+    color: DarkSlateBlue;
+    background-color: DimGray;
+}
+.registro{
+    margin-left: -4px;
+    padding: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+    color: DarkSlateBlue;
+    background-color: DimGray;
+}
+.logo h1{
+    border-radius: 15px;
+    background: #FF0000;margin-left: 500px;margin-right: 500px;
+    width: auto;
+}
+.logo img{
+    max-width: 430px;
+    max-height: 500px;
+}
+.dados button{
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: DarkOrange;
+    color: Fuchsia;
+    margin-left: 570px;
+    font-size: large;font-size: 75px;
+    width: 200px;
+    height: 100px;
+}
+.dados button:hover{
+    color: DarkMagenta;
+    background-color: OrangeRed;
+}
+
